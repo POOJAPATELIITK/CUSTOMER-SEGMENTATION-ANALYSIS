@@ -1,8 +1,8 @@
-## **Project Overview**
+# **Project Overview**
 
 This project performs customer segmentation analysis to discover meaningful groups based on purchasing and demographic patterns. Such segmentation helps businesses deliver targeted marketing strategies, understand customer behavior, and optimize conversions.
 
-**Techniques & Workflow**
+## **Techniques & Workflow**
 
 * Data Analysis & Preprocessing: Cleaned and prepared data for modeling.
 
@@ -12,7 +12,7 @@ This project performs customer segmentation analysis to discover meaningful grou
 
 * Visualization: Used plots to reveal cluster characteristics and insights.
 
-**Methodology Summary**
+## **Methodology Summary**
 
 * Load the Data – Import and clean the dataset.
 
@@ -24,7 +24,7 @@ This project performs customer segmentation analysis to discover meaningful grou
 
 * Interpret Insights – Characterize segments and suggest strategies tailored to each group.
 
-**Results**
+## **Results**
 
 * Identified distinct customer groups (“High-Value”, “Occasional”, “At-Risk”) based on spending patterns and frequency metrics.
 
