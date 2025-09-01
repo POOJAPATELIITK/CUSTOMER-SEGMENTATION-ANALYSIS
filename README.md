@@ -1,10 +1,10 @@
 # **Project Overview**
 
-This project performs customer segmentation analysis to discover meaningful groups based on purchasing and demographic patterns. Such segmentation helps businesses deliver targeted marketing strategies, understand customer behavior, and optimize conversions.
+This project performs customer segmentation analysis to discover distinct clusters based on purchasing and demographic patterns. Such segmentation helps businesses deliver targeted marketing strategies, understand customer behavior, and optimize conversions.
 
 ## **Techniques & Workflow**
 
-* Data Analysis & Preprocessing: Cleaned and prepared data for modeling.
+* Data Analysis & Preprocessing: Cleaned and prepared data for modelling.
 
 * Feature Engineering: Created meaningful variables that influence clustering.
 
